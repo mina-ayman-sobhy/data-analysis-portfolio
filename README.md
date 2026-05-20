@@ -1,6 +1,6 @@
-# Data Analysis Portfolio 📊
 
-## About Me
+
+ About Me
 Data Analyst passionate about transforming raw data into meaningful insights.
 Skilled in Excel, Power Query, Data Modeling, and Python.
 
@@ -18,17 +18,17 @@ Skilled in Excel, Power Query, Data Modeling, and Python.
 - Visualized 6,600M+ units sold globally
 - Regional breakdowns: NA, PAL, Japan
 
-### 3. Budget Tracker Dashboard 🔜
+### 3. Budget Tracker Dashboard 
 - Personal & business income/expense tracking
 - Monthly summaries and visual reports
 - Built with Excel, Power Query & Data Modeling
 
-### 4. HR Attendance Dashboard 🔜
+### 4. HR Attendance Dashboard 
 - Employee attendance and leave tracking
 - Monthly performance and absence reports
 - Built with Excel & Power Query
 
-### 5. E-Commerce Sales Dashboard 🔜
+### 5. E-Commerce Sales Dashboard 
 - Online sales performance analysis
 - KPIs, revenue trends, and product insights
 - Built with Excel, Power Query & Data Modeling
