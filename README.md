@@ -1,6 +1,6 @@
 
 
- About Me
+## About Me
 Data Analyst passionate about transforming raw data into meaningful insights.
 Skilled in Excel, Power Query, Data Modeling, and Python.
 
